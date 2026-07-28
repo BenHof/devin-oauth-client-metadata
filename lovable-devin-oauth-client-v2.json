@@ -1,0 +1,17 @@
+{
+  "client_id": "https://benhof.github.io/devin-oauth-client-metadata/lovable-devin-oauth-client-v2.json",
+  "client_name": "Devin Desktop",
+  "client_uri": "https://benhof.github.io/devin-oauth-client-metadata/",
+  "application_type": "native",
+  "redirect_uris": [
+    "http://127.0.0.1:8765/auth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}

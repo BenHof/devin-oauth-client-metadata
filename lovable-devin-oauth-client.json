@@ -1,7 +1,8 @@
 {
   "client_id": "https://benhof.github.io/devin-oauth-client-metadata/lovable-devin-oauth-client.json",
   "client_name": "Devin Desktop",
-  "client_uri": "https://docs.devin.ai/desktop/cascade/mcp",
+  "client_uri": "https://benhof.github.io/devin-oauth-client-metadata/",
+  "application_type": "native",
   "redirect_uris": [
     "http://127.0.0.1/auth/callback",
     "http://localhost/auth/callback"
